@@ -4,7 +4,7 @@
 En este repositorio trataré de recoger las vulnerabilidades WEB más comunes, estudiarlas, y escribir sobre ellas, la lista es la siguiente:
 
 - [HTMLi](./HTMLi/)
-- CSSi
+- [CSSi](./CSSi/)
 - XSS
 - Stored XSS
 - Reflected XSS
