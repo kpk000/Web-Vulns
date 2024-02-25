@@ -1,9 +1,9 @@
 
-## Injección de HTML
+## Inyección de HTML
 
 ### Introducción
 
-Esta vulnerabilidad se basa en la injección de código HTML malicioso, el navegador normalmente no puede distinguir entre el código légitimo de un sitio web y un código malicioso. Si una página web utiliza el input de un usuario confiando en el input , para mostrar algún tipo de contenido HTML y no sanitiza la entrada correctamente, lo mas posible es que nos encontremos ante un HTML Injection.
+Esta vulnerabilidad se basa en la inyección de código HTML malicioso, el navegador normalmente no puede distinguir entre el código legítimo de un sitio web y un código malicioso. Si una página web utiliza el input de un usuario confiando en el input , para mostrar algún tipo de contenido HTML y no sanitiza la entrada correctamente, lo mas posible es que nos encontremos ante un HTML Injection.
 
 ---
 ### Causas Comúnes
