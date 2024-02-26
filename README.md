@@ -3,12 +3,9 @@
 ## Introducción
 En este repositorio trataré de recoger las vulnerabilidades WEB más comunes, estudiarlas, y escribir sobre ellas, la lista es la siguiente:
 
-- [HTMLi](./HTMLi/)
-- [CSSi](./CSSi/)
-- XSS
-- Stored XSS
-- Reflected XSS
-- DOM XSS
+- [HTMLi](./HTMLi/README.md)
+- [CSSi](./CSSi/README.md)
+- [XSS](./XSS/README.md)
 - Clickjacking
 - Zone transfers (DNS)
 - HPP
