@@ -6,7 +6,7 @@ En este repositorio trataré de recoger las vulnerabilidades WEB más comunes, e
 - [HTMLi](./HTMLi/README.md)
 - [CSSi](./CSSi/README.md)
 - [XSS](./XSS/README.md)
-- Clickjacking
+- [Clickjacking](./Clickjacking/README.md)
 - Zone transfers (DNS)
 - HPP
 - Append @ to URL to load resources
