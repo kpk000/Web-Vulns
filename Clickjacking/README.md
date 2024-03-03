@@ -42,6 +42,7 @@ El *iframe* se hace invisible con *CSS* o *JS* y se superpone, cuando un usuario
 El clickjacking permite a los hackers insertar una capa de interfaz de usuario invisible entre la yema del dedo y el contenido que se muestra en la pantalla del dispositivo.
 
 Un ejemplo sería algo así:
+
 ![webMaliciosa](./utils/webMaliciosa.png)Esta página web es la web maliciosa, esta tienta al usuario a dar clicks en distintos lugares, sin embargo, esta web maliciosa contiene una etiqueta `<iframe>` invisible con una página web légitima:
 
 ```html

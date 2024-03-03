@@ -7,7 +7,7 @@ En este repositorio trataré de recoger las vulnerabilidades WEB más comunes, e
 - [CSSi](./CSSi/README.md)
 - [XSS](./XSS/README.md)
 - [Clickjacking](./Clickjacking/README.md)
-- Zone transfers (DNS)
+- [Zone Transfer (DNS)](./utils/Zone Transfers (DNS/README.md))
 - HPP
 - Append @ to URL to load resources
 - Path traversal
