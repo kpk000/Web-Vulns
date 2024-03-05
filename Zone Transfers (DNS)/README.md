@@ -49,10 +49,10 @@ Para este ejemplo utilizaremos la herramienta `dig`, desde una *shell* de Linux.
   dig soa example.com
 ```
   
-- **Solicitud de Transferencia de Zona:** Tras identificar el servidor principal, el atacante intenta realizar una transferencia de zona completa utilizando el comando `dig` con la opción AXFR contra el servidor DNS autoritativo identificado.
+- **Solicitud de Transferencia de Zona:** Tras identificar el servidor principal, el atacante intenta realizar una transferencia de zona completa utilizando el comando `dig` con la opción AXFR contra el servidor DNS autoritativo identificado. 
     ```bash
     dig @ns.example.com example.com AXFR
-```
+   ```
 Aquí, `ns.example.com` representa el servidor DNS autoritativo para el dominio `example.com`.
 
 Si el ataque se realiza con éxito, deberíamos ver información parcial o total de la zona DNS:
