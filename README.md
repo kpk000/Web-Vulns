@@ -9,8 +9,7 @@ En este repositorio trataré de recoger las vulnerabilidades WEB más comunes, e
 - [Clickjacking](./Clickjacking/README.md)
 - [Zone Transfers (DNS)](./Zone%20Transfers%20(DNS)/README.md)
 - [HPP](./HPP/README.md)
-- Append @ to URL to load resources
-- Path traversal
+- [Path%20traversal](./Path%20traversal/Readme.md)
 - LFI
 - RFI
 - CSRF
