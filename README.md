@@ -10,7 +10,7 @@ En este repositorio trataré de recoger las vulnerabilidades WEB más comunes, e
 - [Zone Transfers (DNS)](./Zone%20Transfers%20(DNS)/README.md)
 - [HPP](./HPP/README.md)
 - [Path-traversal](./Path%20Traversal/README.md)
-- LFI
+- [LFI](./LFI/README)
 - RFI
 - CSRF
 - Open Redir
