@@ -11,6 +11,7 @@ En este repositorio trataré de recoger las vulnerabilidades WEB más comunes, e
 - [HPP](./HPP/README.md)
 - [Path-traversal](./Path%20Traversal/README.md)
 - [LFI](./LFI/README.md)
+- [CSWSH](./CSWSH/README.md)
 - RFI
 - CSRF
 - Open Redir
