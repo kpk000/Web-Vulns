@@ -44,7 +44,7 @@ Como define [Ionos](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web
 Una vez que entendemos como funciona el protocolo, ¿ en que se basa **CSWSH** ?
 Esta vulnerabilidad se basa en falsificar un *WebSocket Handshake* (si esta se basa únicamente en cookies HTTP, sin protección CSRF ) para que el atacante consiga introducirse en mitad del canal de comunicación, de esta forma puede leer y enviar mensajes como un usuario legitimo.
 
-![[Cross-Site-WebSocket-Hijacking-Diagram 1.png]]
+![example](./utils/example.png)
 
 ## Causas Comunes
 
